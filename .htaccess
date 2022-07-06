@@ -1,0 +1,5 @@
+DirectoryIndex index.html
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} =on
+RewriteCond %{HTTP_HOST} ^actu.fit

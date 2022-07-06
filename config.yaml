@@ -1,0 +1,30 @@
+baseURL: 'https://actu.fit/'
+languageCode: 'fr-fr'
+DefaultContentLanguage: "fr"
+title: 'Actu Fit'
+theme: 'chunky-poster'
+paginate: 2
+enableInlineShortcodes: true
+footnoteReturnLinkContents: "^"
+
+params:
+  description: 'Bien choisir son matériel de sport.'
+  homepageImage: "/images/hero-rounded.webp"
+  prismJS:
+    enable: false
+  commento:
+    enable: false
+
+taxonomies:
+  tag: "tags"
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 10
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 0
