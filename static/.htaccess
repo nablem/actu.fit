@@ -3,7 +3,7 @@ RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTPS} =on
 RewriteCond %{HTTP_HOST} ^actu.fit
-RedirectMatch 301 https://actu.fit/catalogue/1/ https://www.amazon.fr/GEARSTONE-Pr%25C3%25A9r%25C3%25A9gl%25C3%25A9es-Affichage-T%25C3%25A9l%25C3%25A9commande-Bluetooth/dp/B08PV5Q16W/?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=f60cc10ed34abb1f1b8398a7fa8dcb93&camp=1642&creative=6746
-RedirectMatch 301 https://actu.fit/catalogue/2/ https://www.amazon.fr/dp/B078J7L5WJ?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=dca08276c346a9fa9efcf6e1434e406b&camp=1642&creative=6746
-RedirectMatch 301 https://actu.fit/catalogue/3/ https://www.amazon.fr/dp/B075V4VNP9?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=9a99d980778ea137bc6dd35ed0d24160&camp=1642&creative=6746
-RedirectMatch 301 https://actu.fit/catalogue/4/ https://www.amazon.fr/Nordictrack-Course-Unisex-Adult-Taille-Unique/dp/B09GRM4STB/?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=2feac69a0811366e144cfba098df2d76&camp=1642&creative=6746
+RedirectMatch 301 /catalogue/1/ https://www.amazon.fr/GEARSTONE-Pr%25C3%25A9r%25C3%25A9gl%25C3%25A9es-Affichage-T%25C3%25A9l%25C3%25A9commande-Bluetooth/dp/B08PV5Q16W/?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=f60cc10ed34abb1f1b8398a7fa8dcb93&camp=1642&creative=6746
+RedirectMatch 301 /catalogue/2/ https://www.amazon.fr/dp/B078J7L5WJ?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=dca08276c346a9fa9efcf6e1434e406b&camp=1642&creative=6746
+RedirectMatch 301 /catalogue/3/ https://www.amazon.fr/dp/B075V4VNP9?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=9a99d980778ea137bc6dd35ed0d24160&camp=1642&creative=6746
+RedirectMatch 301 /catalogue/4/ https://www.amazon.fr/Nordictrack-Course-Unisex-Adult-Taille-Unique/dp/B09GRM4STB/?&_encoding=UTF8&tag=nabillemen-21&linkCode=ur2&linkId=2feac69a0811366e144cfba098df2d76&camp=1642&creative=6746
