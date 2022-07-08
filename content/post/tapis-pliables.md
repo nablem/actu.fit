@@ -16,7 +16,7 @@ Concernant l’entretien, c’est très facile : pensez à bien lubrifier le des
 
 Un tapis compact offrant 2 modes de fonctionnement, en plus d’une fonction Bluetooth et d’un haut-parleur pour écouter directement sa musique.
 
-{{< figure src="/images/gearstone-cs-wp7.jpg" alt="Image du tapis de course pliable Gearstone CS-WP7" >}}
+{{< figure link="/catalogue/1/" src="/images/gearstone-cs-wp7.jpg" alt="Image du tapis de course pliable Gearstone CS-WP7" >}}
 {{< affiliate_link "/catalogue/1/" >}}
 
 **Les plus :**
@@ -37,7 +37,7 @@ Un tapis compact offrant 2 modes de fonctionnement, en plus d’une fonction Blu
 
 Le meilleur rapport qualité-prix de cette sélection : c’est un des tapis pliant les plus populaires du marché cette année !
 
-{{< figure src="/images/ise-abm72.jpg" alt="Image du tapis de course pliable ISE ABM72" >}}
+{{< figure link="/catalogue/2/" src="/images/ise-abm72.jpg" alt="Image du tapis de course pliable ISE ABM72" >}}
 {{< affiliate_link "/catalogue/2/" >}}
 
 **Les plus :**
@@ -60,7 +60,7 @@ Le meilleur rapport qualité-prix de cette sélection : c’est un des tapis pli
 
 Un tapis robuste offrant des fonctionnalités intéressantes, un bon milieu de gamme.
 
-{{< figure src="/images/fitfiu-fitness-mc-200.jpg" alt="Image du tapis de course pliable FITFIU Fitness MC-200" >}}
+{{< figure link="/catalogue/3/" src="/images/fitfiu-fitness-mc-200.jpg" alt="Image du tapis de course pliable FITFIU Fitness MC-200" >}}
 {{< affiliate_link "/catalogue/3/" >}}
 
 **Les plus :**
@@ -82,7 +82,7 @@ Un tapis robuste offrant des fonctionnalités intéressantes, un bon milieu de g
 
 Ce tapis est clairement un produit haut de gamme : c’est le meilleur produit de cette sélection en tout point.
 
-{{< figure src="/images/nordictrack-serie-t.jpg" alt="Image du tapis de course pliable NordicTrack Série T" >}}
+{{< figure link="/catalogue/4/" src="/images/nordictrack-serie-t.jpg" alt="Image du tapis de course pliable NordicTrack Série T" >}}
 {{< affiliate_link "/catalogue/4/" >}}
 
 **Les plus :**
