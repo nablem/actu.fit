@@ -2,7 +2,7 @@
 title: "Top 5 des meilleurs haltères"
 date: "2020-01-02"
 summary: "Notre sélection d'haltères pour travailler la force !\nTop 5, convient à tout niveaux !"
-tags: ["gallery", "lightbox"]
+tags: ["gallery", "lightbox", "cardio"]
 images: ["bar.jpg",]
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque tincidunt arcu a molestie. Suspendisse sodales enim in mollis auctor. Integer blandit placerat odio. Integer nec bibendum justo. Nulla eu dignissim purus. Curabitur congue eros dui, a accumsan lacus ullamcorper sit amet. Donec vel nulla eu velit elementum interdum. In ornare gravida leo, a facilisis tellus. Donec sed odio at mauris viverra gravida ut porttitor turpis. Maecenas quis vulputate odio. Nulla enim nisi, eleifend eget sodales id, porttitor ac purus. Aenean iaculis congue convallis. Aenean lobortis cursus ante, vel rhoncus orci fermentum vitae. Ut blandit maximus leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris nec feugiat nisl.
