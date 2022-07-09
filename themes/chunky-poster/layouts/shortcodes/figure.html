@@ -1,5 +1,5 @@
 <figure class="figure{{ with .Get "class" }} {{ . }}{{ end }}">
-    <a href="{{ .Get "link" }}" class="d-block">
+    <a target="_blank" href="{{ .Get "link" }}" class="d-block">
         <img src="{{ .Get "src" }}"
              {{- if or (.Get "alt") (.Get "caption") }}
              alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
