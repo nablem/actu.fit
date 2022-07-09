@@ -2,7 +2,7 @@
 title: "Les meilleurs tapis de course pliables"
 date: "2022-07-08"
 summary: "Des tapis de course pliants, facile à ranger, pour travailler son cardio de chez soi !"
-tags: ["course", "cardio", "à la maison"]
+tags: ["course", "cardio", "à la maison", "tapis"]
 images: ["tapis-pliables.jpg"]
 ---
 La météo, la pollution sonore, la nuit… il est facile de trouver une raison pour éviter d’aller courir… le tapis de course est la solution ! Il s’agit tout simplement d’un tapis entraîné par un moteur, sur lequel vous courrez de chez vous. Cet appareil est un vrai coach : vous pouvez régler l’inclinaison, la vitesse du tapis, et certaines gammes vous permettent également de suivre des programmes, dans un but particulier, tel que brûler des graisses, ou encore optimiser vos sprints !
