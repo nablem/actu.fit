@@ -9,7 +9,7 @@ footnoteReturnLinkContents: "^"
 
 params:
   description: 'Bien choisir son matériel de sport.'
-  homepageImage: "/images/hero-rounded.webp"
+  homepageImage: "/images/sport.png"
   prismJS:
     enable: false
   commento:
