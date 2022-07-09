@@ -2,7 +2,7 @@
 title: "Les meilleurs tapis de yoga"
 date: "2022-07-09"
 summary: "Que ce soit chez soi en à la salle, le tapis de yoga est indispensable pour faire des séances confortablement !"
-tags: ["tapis", "yoga", "à la maison"]
+tags: ["à la maison", "yoga"]
 images: ["tapis-yoga.jpg"]
 ---
 Que ce soit pour le yoga, la gymnastique, le pilate, ou encore le stretching, un tapis de yoga est indispensable. Il est préférable de disposer de son propre tapis, pour des questions de confort et d’hygiène !
