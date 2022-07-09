@@ -1,7 +1,7 @@
 ---
 title: "Les meilleurs tapis de yoga"
 date: "2022-07-09"
-summary: "Des tapis de course pliants, facile à ranger, pour travailler son cardio de chez soi !"
+summary: "Que ce soit chez soi en à la salle, le tapis de yoga est indispensable pour faire des séances confortablement !"
 tags: ["tapis", "yoga", "à la maison"]
 images: ["tapis-yoga.jpg"]
 ---
