@@ -7,3 +7,7 @@ RedirectMatch 301 /catalogue/1/ https://amzn.to/3AGGMsb
 RedirectMatch 301 /catalogue/2/ https://amzn.to/3ACRdx2
 RedirectMatch 301 /catalogue/3/ https://amzn.to/3NVem0L
 RedirectMatch 301 /catalogue/4/ https://amzn.to/3RwSHiq
+RedirectMatch 301 /catalogue/5/ https://amzn.to/3c13r8a
+RedirectMatch 301 /catalogue/6/ https://amzn.to/3nOkgpw
+RedirectMatch 301 /catalogue/7/ https://amzn.to/3OZdhGy
+RedirectMatch 301 /catalogue/8/ https://amzn.to/3uA5ZAQ
