@@ -1,4 +1,4 @@
-baseURL: 'https://actu.fit/'
+baseURL: 'https://actu.fit'
 languageCode: 'fr-fr'
 DefaultContentLanguage: "fr"
 title: 'Actu Fit'

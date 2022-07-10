@@ -22,7 +22,7 @@
         "description":{{ .Summary }},
         {{- with .Params.Images }}
             {{ $images := . }}
-            "image":{{ printf "%s%s" $.Site.BaseURL (index $images 0) }},
+            "image":{{ printf "%s/images/%s" $.Site.BaseURL (index $images 0) }},
         {{- end -}}
         "offers":{
             "@type":"AggregateOffer",
