@@ -14,6 +14,27 @@
   <meta name="description" content="{{ .Site.Params.description }}">
 {{- end -}}
 
+<script type="application/ld+json">
+     {
+        "@context":"https://schema.org",
+        "@type":"Product",
+        "name":"{{ .Title }}",
+        "description":{{ .Summary }},
+        {{- with .Params.Images }}
+            {{ $images := . }}
+            "image":{{ printf "%s%s" $.Site.BaseURL (index $images 0) }},
+        {{- end -}}
+        "offers":{
+            "@type":"AggregateOffer",
+            "offerCount":{{ .Params.Offers }},
+            "lowPrice":{{ .Params.Min }},
+            "highPrice":{{ .Params.Max }},
+            "price":null,
+            "priceCurrency":"EUR"
+        }
+    }
+</script>
+
 <meta name="author" content="{{ if .Params.authors }}{{ delimit .Params.authors ", " }}{{ else }}{{ .Site.Params.author }}{{ end }}">
 
 <link rel="icon" href="{{ "favicon-32x32.png" | relURL }} " sizes="32x32" type="image/png">

@@ -4,6 +4,9 @@ date: "2022-07-08"
 summary: "Des tapis de course pliants, faciles à ranger, pour travailler son cardio de chez soi !"
 tags: ["cardio", "course", "à la maison"]
 images: ["tapis-pliables.jpg"]
+offers: 5
+min: 279.99
+max: 949.00
 ---
 La météo, la pollution sonore, la nuit… il est facile de trouver une raison pour éviter d’aller courir… le tapis de course est la solution ! Il s’agit tout simplement d’un tapis entraîné par un moteur, sur lequel vous courrez de chez vous. Cet appareil est un vrai coach : vous pouvez régler l’inclinaison, la vitesse du tapis, et certaines gammes vous permettent également de suivre des programmes, dans un but particulier, tel que brûler des graisses, ou encore optimiser vos sprints !
 
