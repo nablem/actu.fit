@@ -3,7 +3,7 @@ title: "Les meilleurs rameurs d'appartement"
 date: "2022-07-10"
 summary: "Le rameur est l'équipement fitness idéal pour travailler son cardio à la maison !"
 tags: ["cardio", "à la maison"]
-images: ["rameurs.jpg"]
+images: ["rameurs/rameurs.jpg"]
 offers: 4
 min: 189.97
 max: 999.00
@@ -24,7 +24,7 @@ Les critères à vérifier avant d'acheter sont principalement la résistance of
 
 Un rapport qualité-prix intéressant pour un rameur d’entrée de gamme.
 
-{{< figure link="/catalogue/10/" src="/images/ise-sy-1750.jpg" alt="Image du rameur ISE SY-1750" >}}
+{{< figure link="/catalogue/10/" src="/images/rameurs/ise-sy-1750.jpg" alt="Image du rameur ISE SY-1750" >}}
 {{< affiliate_link "/catalogue/10/" >}}
 
 **Les plus :**
@@ -44,7 +44,7 @@ Un rapport qualité-prix intéressant pour un rameur d’entrée de gamme.
 
 Un bon produit positionné en milieu de gamme.
 
-{{< figure link="/catalogue/11/" src="/images/rameur-driplex.jpg" alt="Image du rameur Driplex" >}}
+{{< figure link="/catalogue/11/" src="/images/rameurs/rameur-driplex.jpg" alt="Image du rameur Driplex" >}}
 {{< affiliate_link "/catalogue/11/" >}}
 
 **Les plus :**
@@ -65,7 +65,7 @@ Un bon produit positionné en milieu de gamme.
 
 Autre produit du milieu de gamme, disposant d’une meilleure répartition de la résistance sur ses 15 niveaux. Un produit fiable et adapté pour une pratique régulière.
 
-{{< figure link="/catalogue/12/" src="/images/rameur-yoleo.jpg" alt="Image du rameur YOLEO" >}}
+{{< figure link="/catalogue/12/" src="/images/rameurs/rameur-yoleo.jpg" alt="Image du rameur YOLEO" >}}
 {{< affiliate_link "/catalogue/12/" >}}
 
 **Les plus :**
@@ -86,7 +86,7 @@ Autre produit du milieu de gamme, disposant d’une meilleure répartition de la
 
 Le haut de gamme de cette sélection. Une conception traditionnelle : ce modèle est fait à quasiment 100% en bois de frêne, et sa résistance est à l’eau. C’est clairement notre coup de cœur.
 
-{{< figure link="/catalogue/13/" src="/images/rameur-bluefin-fitness-blade-aqua-w-1.jpg" alt="Image du rameur Bluefin Fitness Blade Aqua W-1" >}}
+{{< figure link="/catalogue/13/" src="/images/rameurs/rameur-bluefin-fitness-blade-aqua-w-1.jpg" alt="Image du rameur Bluefin Fitness Blade Aqua W-1" >}}
 {{< affiliate_link "/catalogue/13/" >}}
 
 **Les plus :**

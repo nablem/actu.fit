@@ -3,7 +3,7 @@ title: "Les meilleurs tapis de yoga"
 date: "2022-07-09"
 summary: "Que ce soit chez soi ou à la salle, le tapis de yoga est indispensable pour faire des séances confortablement !"
 tags: ["à la maison", "yoga"]
-images: ["tapis-yoga.jpg"]
+images: ["tapis-yoga/tapis-yoga.jpg"]
 offers: 4
 min: 19.99
 max: 49.99
@@ -20,7 +20,7 @@ Quelques critères sont à prendre en compte avant l’achat :
 
 Un bon tapis d’entrée de gamme. L’idéal pour les petits budgets.
 
-{{< figure link="/catalogue/5/" src="/images/tapis-glymnis.jpg" alt="Image du tapis de yoga Glymnis" >}}
+{{< figure link="/catalogue/5/" src="/images/tapis-yoga/tapis-glymnis.jpg" alt="Image du tapis de yoga Glymnis" >}}
 {{< affiliate_link "/catalogue/5/" >}}
 
 **Les plus :**
@@ -38,7 +38,7 @@ Un bon tapis d’entrée de gamme. L’idéal pour les petits budgets.
 
 Un tapis de milieu de gamme intéressant : un bon rembourrage, idéal pour les débutants privilégiant le confort des appuis.
 
-{{< figure link="/catalogue/6/" src="/images/tapis-tjc.jpg" alt="Image du tapis de yoga TJC" >}}
+{{< figure link="/catalogue/6/" src="/images/tapis-yoga/tapis-tjc.jpg" alt="Image du tapis de yoga TJC" >}}
 {{< affiliate_link "/catalogue/6/" >}}
 
 **Les plus :**
@@ -56,7 +56,7 @@ Un tapis de milieu de gamme intéressant : un bon rembourrage, idéal pour les d
 
 Le meilleur rapport qualité-prix de cette sélection : des matériaux travaillés, pour un transport facile.
 
-{{< figure link="/catalogue/7/" src="/images/tapis-avoalre.jpg" alt="Image du tapis de yoga Avoalre" >}}
+{{< figure link="/catalogue/7/" src="/images/tapis-yoga/tapis-avoalre.jpg" alt="Image du tapis de yoga Avoalre" >}}
 {{< affiliate_link "/catalogue/7/" >}}
 
 **Les plus :**
