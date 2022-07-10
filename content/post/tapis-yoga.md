@@ -77,7 +77,7 @@ Le meilleur rapport qualité-prix de cette sélection : des matériaux travaill�
 
 Un tapis de yoga haut de gamme, très apprécié par les pratiquants, qu’ils soient débutants ou expérimentés.
 
-{{< figure link="/catalogue/8/" src="/images/tapis-kaizenly.jpg" alt="Image du tapis de yoga KAIZENLY" >}}
+{{< figure link="/catalogue/8/" src="/images/tapis-yoga/tapis-kaizenly.jpg" alt="Image du tapis de yoga KAIZENLY" >}}
 {{< affiliate_link "/catalogue/8/" >}}
 
 **Les plus :**

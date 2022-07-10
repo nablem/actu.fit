@@ -106,7 +106,7 @@ Ce tapis est clairement un produit haut de gamme : c’est le meilleur produit d
 
 Il s'agit de notre coup de coeur. Ce modèle haut de gamme est le moins encombrant de cette sélection.
 
-{{< figure link="/catalogue/9/" src="/images/botorro-r5.jpg" alt="Image du tapis de course pliable BOTORRO R5" >}}
+{{< figure link="/catalogue/9/" src="/images/tapis-course-pliables/botorro-r5.jpg" alt="Image du tapis de course pliable BOTORRO R5" >}}
 {{< affiliate_link "/catalogue/9/" >}}
 
 **Les plus :**
