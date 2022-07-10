@@ -80,7 +80,7 @@ Un tapis robuste offrant des fonctionnalités intéressantes, un bon milieu de g
 ---
 ## [NordicTrack Série T](/catalogue/4/)  — 949,00€
 
-Ce tapis est clairement un produit haut de gamme : c’est le meilleur produit de cette sélection en tout point.
+Ce tapis est clairement un produit haut de gamme : c’est le meilleur produit de cette sélection en terme de fonctionnalités et de puissance.
 
 {{< figure link="/catalogue/4/" src="/images/nordictrack-serie-t.jpg" alt="Image du tapis de course pliable NordicTrack Série T" >}}
 {{< affiliate_link "/catalogue/4/" >}}
@@ -98,4 +98,25 @@ Ce tapis est clairement un produit haut de gamme : c’est le meilleur produit d
 | Vitesse max |     Puissance     | Capacité max. | Poids |    Dimensions     |
 | ----------- |    -----------    |  -----------  | ----- | ----------------  |
 |   16 km/h   | 2,6 Cheval-vapeur |     137 kg    | 92 kg | 185 x 91 x 138 cm |
+---
+## [BOTORRO R5](/catalogue/9/)  — 899,99€
+
+Il s'agit de notre coup de coeur. Ce modèle haut de gamme est le moins encombrant de cette sélection.
+
+{{< figure link="/catalogue/9/" src="/images/botorro-r5.jpg" alt="Image du tapis de course pliable BOTORRO R5" >}}
+{{< affiliate_link "/catalogue/9/" >}}
+
+**Les plus :**
+- Très peu encombrant : se pli très facilement, et rentre facilement dans le coin d'un placard
+- Très léger
+- Moteur robuste et silencieux, technologie fiable
+- Fonctionnalités intéressantes : deux haut-parleurs stéréo Bluetooth, interface ergonomique
+
+**Les moins :**
+- Ne s'incline pas : à ce prix on pourrait s'attendre à un minimum de capacité d'inclinaison
+
+
+| Vitesse max |     Puissance     | Capacité max. |   Poids  |       Dimensions          |
+| ----------- |    -----------    |  -----------  |   -----  |    ----------------       |
+|   15 km/h   | 2,5 Cheval-vapeur |     100 kg    | 51,94 kg | 157,48 x 78,74 x 97,79 cm |
 ---

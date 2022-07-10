@@ -11,3 +11,4 @@ RedirectMatch 301 /catalogue/5/ https://amzn.to/3c13r8a
 RedirectMatch 301 /catalogue/6/ https://amzn.to/3nOkgpw
 RedirectMatch 301 /catalogue/7/ https://amzn.to/3OZdhGy
 RedirectMatch 301 /catalogue/8/ https://amzn.to/3uA5ZAQ
+RedirectMatch 301 /catalogue/8/ https://amzn.to/3uA5ZAQ
