@@ -1,12 +1,12 @@
 ---
 title: "Les meilleurs vélos d'appartement (pliables, standards)"
-date: "2022-07-12"
+date: "2022-07-13"
 summary: "Faire du vélo depuis chez soi : quel confort ! On vous donne les critères à comparer pour bien faire votre choix."
-tags: ["à la maison", "vélo", "cardio"]
+tags: ["à la maison", "vélo", "cardio", "comparatifs"]
 images: ["velos-appartement/velos-appartement.jpg"]
-offers: 4
-min: 19.99
-max: 49.99
+offers: 6
+min: 85.79
+max: 389.99
 ---
 
 Le vélo d'appartement est un matériel très efficace pour travailler le cardio. Outre l'avantage de pouvoir réaliser des entraînements de chez soi, il permet aussi de suivre des programmes précis, et de réaliser des séances efficaces, grâce à ses différents niveaux de résistance.
@@ -19,7 +19,7 @@ Plusieurs critères sont à prendre en compte, et à comparer, avant de réalise
 - l'adhérence (des pieds et des pédales)
 
 Notez que beaucoup de modèles disponibles à la vente sont pliables, facilitant ainsi le rangement !
-Cette atout est souvent au détriment d'autres critères, tel que la résistance.
+Cet atout est souvent au détriment d'autres critères, tel que la résistance.
 Choisissez en fonction de vos objectifs.
 
 ---

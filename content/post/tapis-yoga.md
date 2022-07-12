@@ -2,7 +2,7 @@
 title: "Les meilleurs tapis de yoga"
 date: "2022-07-09"
 summary: "Que ce soit chez soi ou à la salle, le tapis de yoga est indispensable pour faire des séances confortablement !"
-tags: ["à la maison", "yoga"]
+tags: ["à la maison", "yoga", "comparatifs"]
 images: ["tapis-yoga/tapis-yoga.jpg"]
 offers: 4
 min: 19.99

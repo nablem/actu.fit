@@ -2,7 +2,7 @@
 title: "Les meilleurs tapis de course pliables"
 date: "2022-07-08"
 summary: "Des tapis de course pliants, faciles à ranger, pour travailler son cardio de chez soi !"
-tags: ["cardio", "course", "à la maison"]
+tags: ["cardio", "course", "à la maison", "comparatifs"]
 images: ["tapis-course-pliables/tapis-pliables.jpg"]
 offers: 5
 min: 279.99
