@@ -8,7 +8,7 @@ enableInlineShortcodes: true
 footnoteReturnLinkContents: "^"
 
 params:
-  description: 'Bien choisir son matériel de sport.'
+  description: 'Bien choisir son équipement de sport.'
   homepageImage: "/images/logo.png"
   prismJS:
     enable: false
