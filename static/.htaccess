@@ -3,6 +3,7 @@ RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTPS} =on
 RewriteCond %{HTTP_HOST} ^actu.fit
+RedirectMatch 301 /catalogue/0/ https://amzn.to/3cc3wGo
 RedirectMatch 301 /catalogue/1/ https://amzn.to/3AGGMsb
 RedirectMatch 301 /catalogue/2/ https://amzn.to/3ACRdx2
 RedirectMatch 301 /catalogue/3/ https://amzn.to/3NVem0L
