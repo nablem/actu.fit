@@ -21,10 +21,14 @@ taxonomies:
 menu:
   main:
     - identifier: "home"
-      name: "Home"
+      name: "Accueil"
       url: "/"
-      weight: 10
+      weight: 1.
+    - identifier: "benchmarks"
+      name: "Comparatifs"
+      url: "/tags/comparatifs/"
+      weight: 2
     - identifier: "about"
-      name: "About"
-      url: "/about/"
-      weight: 0
+      name: "À propos"
+      url: "/a-propos/"
+      weight: 3

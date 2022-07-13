@@ -1,8 +1,9 @@
 ---
 title: "Mentions légales"
+robots: "noindex,nofollow"
 ---
 
-## Propriétaire et gestionnaire du site
+## Propriétaire, gestionnaire du site
 Nabil Lemenuel
 
 ## Hébergement
