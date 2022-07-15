@@ -10,11 +10,13 @@
             {{- if .Site.Params.showLanguageSwitcher -}}
                 {{ partial "i18nlist.html" . }}
             {{- end -}}
-            {{ with .Site.Menus.main }}
-                {{ range . }}
-                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{ if eq .Site.BaseURL .Permalink }}
+                {{ with .Site.Menus.main }}
+                    {{ range . }}
+                        <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
                 {{ end }}
-            {{ end }}
+            {{end}}
             </ul>
         </div>
     </div>

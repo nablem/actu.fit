@@ -3,7 +3,7 @@ title: "À propos de nous"
 ---
 
 Nous sommes un collectif passionés de sport et de fitness.
-Notre but est de partager nos avis sur les matériels de sport et de fitness, et ainsi aider le plus grand nombre à choisir du mieux possible le meilleur produit, notamment en sensibilisant sur les critères à vérifier avant d'acheter.
+Notre but est de partager nos avis sur les matériels de sport et de fitness, et ainsi aider le plus grand nombre à choisir du mieux possible le meilleur produit, notamment en sensibilisant sur les critères à vérifier avant d'acheter, au travers de nos [comparatifs](/tags/comparatifs/).
 
 L'équipe en bref :
 - Jean, 28 ans, coach sportif dans les Pyrénées

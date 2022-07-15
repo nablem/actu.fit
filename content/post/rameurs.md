@@ -2,7 +2,7 @@
 title: "Les meilleurs rameurs d'appartement"
 date: "2022-07-10"
 summary: "Le rameur est l'équipement fitness idéal pour travailler son cardio à la maison !"
-tags: ["cardio", "à la maison", "comparatifs"]
+tags: ["cardio", "fitness", "comparatifs"]
 images: ["rameurs/rameurs.jpg"]
 offers: 4
 min: 189.97

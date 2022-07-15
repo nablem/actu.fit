@@ -20,10 +20,6 @@ taxonomies:
 
 menu:
   main:
-    - identifier: "home"
-      name: "Accueil"
-      url: "/"
-      weight: 1.
     - identifier: "benchmarks"
       name: "Comparatifs"
       url: "/tags/comparatifs/"
