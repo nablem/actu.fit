@@ -10,8 +10,9 @@ Le travail de la force n'est pas fait simplement pour les body builders et adept
 Les coureurs peuvent aussi en bénéficier pour améliorer leurs performances, à partir de simples programmes.
 
 Que vous puissiez aller à une salle disposant de poids en fonte, ou que vous faisiez vos sessions
-chez vous, il y a plein d'excellents programmes dédiés au travail de la force pour la course à pied.
+chez vous, il y a plein d'excellents programmes dédiés au travail de la force pour la [course à pied](/tags/course-à-pied/).
 Ceux-ci vous aideront à courir plus facilement, et battre vos records !
+La force est tout aussi importante que le [cardio](/tags/cardio/), si vous voulez vraiment être plus performants.
 
 Voici les différents aspects sur lesquels la musculation peut vous aider :
 - l'explosivité
@@ -34,6 +35,9 @@ ensemble pour vous propulser en avant.
 Commencez une routine d'entraînement de force en pratiquant ces programmes 2 fois par semaine.
 Idéalement sur les jours où vous ne courrez pas, ou après votre séance de course, s'il vous reste
 l'énergie nécessaire.
+
+La plupart des exercices ont des variantes bien connues. N'hésitez pas à rajouter du poids ou de la [résistance](/post/bandes-resistance/),
+lorsque vous ressentez le besoin d'ajouter de la difficulté.
 
 ## Programme pour renforcer la ceinture abdominale
 

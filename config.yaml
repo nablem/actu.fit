@@ -23,6 +23,10 @@ menu:
     - identifier: "benchmarks"
       name: "Comparatifs"
       url: "/tags/comparatifs/"
+      weight: 1
+    - identifier: "tips"
+      name: "Conseils"
+      url: "/tags/conseils/"
       weight: 2
     - identifier: "about"
       name: "À propos"
