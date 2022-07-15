@@ -2,7 +2,7 @@
 title: "Exercices de force pour course à pied"
 date: "2022-07-15"
 summary: "Pour se tonifier, travailler la souplesse, les élastiques sont devenus un indispensable des séances fitness."
-tags: ["musculation", "conseils"]
+tags: ["course à pied", "musculation", "conseils"]
 images: ["conseils/pexels-liliana-drew-8554950.jpg"]
 inspiredBy: "https://www.fleetfeet.com/strength-training"
 ---
