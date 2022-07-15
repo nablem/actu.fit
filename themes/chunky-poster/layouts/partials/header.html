@@ -5,19 +5,19 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+        {{ if eq (add .Site.BaseURL "/") .Permalink }}
         <div class="collapse navbar-collapse" id="main-menu">
             <ul class="navbar-nav ml-auto">
             {{- if .Site.Params.showLanguageSwitcher -}}
                 {{ partial "i18nlist.html" . }}
             {{- end -}}
-            {{ if eq (add .Site.BaseURL "/") .Permalink }}
-                {{ with .Site.Menus.main }}
-                    {{ range . }}
-                        <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-                    {{ end }}
+            {{ with .Site.Menus.main }}
+                {{ range . }}
+                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
                 {{ end }}
-            {{end}}
+            {{ end }}
             </ul>
         </div>
+        {{end}}
     </div>
 </nav>
