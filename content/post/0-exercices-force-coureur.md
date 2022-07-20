@@ -1,7 +1,7 @@
 ---
 title: "Exercices de force pour course à pied"
 date: "2022-07-15"
-summary: "Pour se tonifier, travailler la souplesse, les élastiques sont devenus un indispensable des séances fitness."
+summary: "Des exercices destinés aux coureurs pour booster sa force !"
 tags: ["course à pied", "musculation", "conseils"]
 images: ["conseils/exercices-force-coureur/pexels-liliana-drew-8554950.jpg"]
 inspiredBy: "https://www.fleetfeet.com/strength-training"
@@ -86,3 +86,5 @@ Vous pouvez aussi augmenter l'intensité en réalisant les mouvements plus rapid
 
 *Muscles ciblés : **le fessier, le tronc, les ischio-jambiers**.*
 {{< figure caption="La fente va travailler l'équilibre tout en mobilisant les plus gros muscles de vos jambes. La variante inversée permet de faire travailler le même groupe de muscles, tout en diminuant l'impact sur vos articulations." src="/images/conseils/exercices-force-coureur/big-dodzy-gTTtXwqmKPQ-unsplash.jpg" alt="Mouvements pour effectuer la planche" >}}
+
+---
