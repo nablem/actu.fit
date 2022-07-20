@@ -3,6 +3,7 @@ RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTPS} =on
 RewriteCond %{HTTP_HOST} ^actu.fit
+RedirectMatch 301 /tags/pilate/ https://actu.fit/tags/pilates/
 RedirectMatch 301 /catalogue/0/ https://amzn.to/3cc3wGo
 RedirectMatch 301 /catalogue/1/ https://amzn.to/3AGGMsb
 RedirectMatch 301 /catalogue/2/ https://amzn.to/3ACRdx2
@@ -27,3 +28,7 @@ RedirectMatch 301 /catalogue/20/ https://amzn.to/3yEvgLu
 RedirectMatch 301 /catalogue/21/ https://amzn.to/3cc2dHs
 RedirectMatch 301 /catalogue/22/ https://amzn.to/3Pkxfey
 RedirectMatch 301 /catalogue/23/ https://amzn.to/3PbQLdk
+RedirectMatch 301 /catalogue/24/ https://amzn.to/3aPXIC2
+RedirectMatch 301 /catalogue/25/ https://amzn.to/3OlWX1n
+RedirectMatch 301 /catalogue/26/ https://amzn.to/3zj7Nkd
+RedirectMatch 301 /catalogue/27/ https://amzn.to/3cvWyfi
