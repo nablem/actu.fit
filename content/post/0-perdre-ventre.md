@@ -66,8 +66,9 @@ Un exercice [cardio](/tags/cardio/) si simple qu'on n'y pense pas instinctivemen
 La marche vous aide à perdre la graisse du
 ventre et à rester en forme. Marcher avec une alimentation équilibrée
 peut faire des merveilles si vous essayez de vous débarrasser des
-kilos en trop. Une marche rapide pendant même trente minutes à l'air
-frais apporte peut aider à réduire la graisse autour du ventre. De plus,
+kilos en trop. Une marche rapide, aussi brève que 30 minutes par jour,
+peut significativement réduire les graisses accumulées sur le ventre, comme le démontre
+cette [étude](https://pubmed.ncbi.nlm.nih.gov/12439651/). De plus,
 il a également un effet positif sur votre métabolisme et votre fréquence
 cardiaque. Même courir est bénéfique pour brûler les graisses.
 
