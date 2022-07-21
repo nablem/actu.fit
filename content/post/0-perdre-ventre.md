@@ -33,7 +33,8 @@ rapidement la graisse du ventre. [L'étude ACE de 2012](https://www.acefitness.o
 santé âgées de 18 à 22 ans alors qu'elles participaient à un cours de Zumba
 portant un moniteur cardiaque. En moyenne, les femmes ont brûlé 9,5 calories
 par minute, ce qui est plus que les calories par minute brûlées lors des tests
-précédents de cours avancés de [Pilates](/tags/pilates/), de [power yoga](/post/tapis-yoga/), de step aérobic et de
+précédents de cours avancés de [Pilates](/tags/pilates/), de [power yoga](/post/tapis-yoga/),
+de [step aérobic](/post/steppers/) et de
 cardio kickboxing. Alors, mettez de la musique et commencez dès maintenant avec
 une séance d'entraînement de zumba !
 De manière générale, vous pouvez faire des entraînements aérobies à haute intensité.
@@ -61,7 +62,7 @@ construire des abdominaux tout en faisant fondre la graisse du ventre.
 
 ## La marche
 
-Un exercice cardio si simple qu'on n'y pense pas instinctivement !
+Un exercice [cardio](/tags/cardio/) si simple qu'on n'y pense pas instinctivement !
 La marche vous aide à perdre la graisse du
 ventre et à rester en forme. Marcher avec une alimentation équilibrée
 peut faire des merveilles si vous essayez de vous débarrasser des
@@ -91,7 +92,7 @@ une pause pendant un moment, puis abaissez vos jambes tout en expirant.
 
 ## Le vélo
 
- Le cyclisme aide à augmenter votre fréquence cardiaque et a également la capacité de
+Faire du [vélo](/post/velos-appartement/) aide à augmenter votre fréquence cardiaque et a également la capacité de
 brûler un nombre important de calories. Le cyclisme vous aide à perdre du
 poids au niveau des cuisses et de la taille. Alors commencez à vous déplacer
 avec votre vélo vers des endroits proches ! Soyez régulier et cet exercice peut
