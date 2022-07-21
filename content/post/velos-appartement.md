@@ -1,5 +1,5 @@
 ---
-title: "Les meilleurs vélos d'appartement (pliables et standards)"
+title: "Les meilleurs vélos d'appartement"
 date: "2022-07-21"
 summary: "Faire du vélo depuis chez soi : quel confort ! On vous donne les critères à comparer pour bien faire votre choix."
 tags: ["cardio", "fitness", "comparatifs"]
