@@ -2,7 +2,7 @@
 title: "Programme pour améliorer sa flexibilité"
 date: "2022-07-20"
 summary: "10 exercices qui vous aideront à gagner en souplesse, et optimiser votre récupération !"
-tags: ["pilates", "musculation", "conseils"]
+tags: ["pilates/", "musculation/", "conseils/"]
 images: ["conseils/exercices-flexibilite/pexels-monstera-5384558.jpg"]
 inspiredBy: "https://www.healthifyme.com/blog/10-exercises-improve-flexibility/"
 ---

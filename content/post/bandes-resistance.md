@@ -2,7 +2,7 @@
 title: "Les meilleurs bandes de résistance"
 date: "2022-07-15"
 summary: "Pour se tonifier, travailler la souplesse, les élastiques sont devenus un indispensable des séances fitness."
-tags: ["pilates", "musculation", "comparatifs"]
+tags: ["pilates/", "musculation/", "comparatifs/"]
 images: ["bandes-resistance/pexels-pavel-danilyuk-6339596.jpg"]
 offers: 5
 min: 8.99

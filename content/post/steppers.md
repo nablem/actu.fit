@@ -2,7 +2,7 @@
 title: "Les meilleurs steppers fitness"
 date: "2022-07-20"
 summary: "Perdez 500 calories à l'heure grâce au step ! Pour cela, il vous suffit d'un stepper, et c'est parti pour des séances intenses !"
-tags: ["pilates", "fitness", "comparatifs"]
+tags: ["pilates/", "fitness/", "comparatifs/"]
 images: ["steppers/x9kzwqV4_2x.jpg"]
 offers: 4
 min: 33.99
