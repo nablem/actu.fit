@@ -2,7 +2,7 @@
 title: "Exercices pour perdre du ventre"
 date: "2022-07-21"
 summary: "Vous avez l'objectif de perdre du ventre ? On vous propose ici quelques exercices qui vous y aideront !"
-tags: ["fitness/", "conseils/"]
+tags: ["fitness", "conseils"]
 images: ["conseils/perdre-ventre/pexels-karolina-grabowska-4498174.jpg"]
 inspiredBy: "https://www.ndtv.com/health/these-simple-and-effective-exercises-can-help-melt-belly-fat-within-no-time-do-include-them-in-your-1970403"
 ---

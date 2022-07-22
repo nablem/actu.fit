@@ -2,7 +2,7 @@
 title: "Les meilleurs anneaux de Pilates"
 date: "2022-07-22"
 summary: "Un accessoire efficace pour te tonifier en profondeur, tout en douceur, qui vient compléter vos séances de Pilates !"
-tags: ["pilates/", "musculation/", "comparatifs/"]
+tags: ["pilates", "musculation", "comparatifs"]
 images: ["anneaux-pilates/pexels-jessica-monte-1103254.jpg"]
 offers: 5
 min: 12.59

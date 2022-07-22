@@ -2,7 +2,7 @@
 title: "Exercices de force pour course à pied"
 date: "2022-07-15"
 summary: "Des exercices destinés aux coureurs pour booster sa force !"
-tags: ["course à pied/", "musculation/", "conseils/"]
+tags: ["course à pied", "musculation", "conseils"]
 images: ["conseils/exercices-force-coureur/pexels-liliana-drew-8554950.jpg"]
 inspiredBy: "https://www.fleetfeet.com/strength-training"
 ---
