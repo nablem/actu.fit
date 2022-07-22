@@ -1,5 +1,6 @@
 ---
 title: "Mentions légales"
+summary: "Mentions légales du site Actu Fit (actu.fit)"
 robots: "noindex,nofollow"
 ---
 

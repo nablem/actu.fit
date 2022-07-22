@@ -1,5 +1,6 @@
 ---
 title: "À propos de nous"
+summary: "Actu Fit est un collectif passionés de sport et de fitness proposant des comparatifs pour mieux choisir son matériel."
 ---
 
 Nous sommes un collectif passionés de sport et de fitness.
