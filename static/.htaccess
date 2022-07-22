@@ -32,3 +32,6 @@ RedirectMatch 301 /catalogue/24/ https://amzn.to/3aPXIC2
 RedirectMatch 301 /catalogue/25/ https://amzn.to/3OlWX1n
 RedirectMatch 301 /catalogue/26/ https://amzn.to/3zj7Nkd
 RedirectMatch 301 /catalogue/27/ https://amzn.to/3cvWyfi
+RedirectMatch 301 /catalogue/28/ https://amzn.to/3omzmD9
+RedirectMatch 301 /catalogue/29/ https://amzn.to/3aUXauT
+RedirectMatch 301 /catalogue/30/ https://amzn.to/3IZ2rhn
