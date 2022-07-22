@@ -12,7 +12,9 @@
   {{ end }}
 </title>
 
-{{- if .Description -}}
+{{- if .Summary -}}
+  <meta name="description" content="{{ .Summary }}">
+{{- else if .Description -}}
   <meta name="description" content="{{ .Description }}">
 {{- else if .Site.Params.description -}}
   <meta name="description" content="{{ .Site.Params.description }}">
