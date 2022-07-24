@@ -1,18 +1,18 @@
 ---
 title: "Les meilleurs tapis de course pliables"
-date: "2022-07-08"
-summary: "Des tapis de course pliants, faciles à ranger, pour travailler son cardio de chez soi !"
+date: "2022-07-24"
+summary: "Des tapis de course pliants, faciles à ranger et peu encombrants, pour travailler son cardio de chez soi !"
 tags: ["course à pied", "cardio", "comparatifs"]
-images: ["tapis-course-pliables/pexels-julia-larson-6455930.jpg"]
+images: ["tapis-course-pliables/intenza-fitness-X3huptykYH0-unsplash.jpg"]
 offers: 5
 min: 279.99
 max: 949.00
 ---
-La météo, la pollution sonore, la nuit… il est facile de trouver une raison pour éviter d’aller courir… le tapis de course est la solution ! Il s’agit tout simplement d’un tapis entraîné par un moteur, sur lequel vous courrez de chez vous. Cet appareil est un vrai coach : vous pouvez régler l’inclinaison, la vitesse du tapis, et certaines gammes vous permettent également de suivre des programmes, dans un but particulier, tel que brûler des graisses, ou encore optimiser vos sprints !
+La météo, la pollution sonore, la nuit… il est facile de trouver une raison pour éviter d’aller courir… le tapis de course est la solution ! Il s’agit tout simplement d’un tapis entraîné par un moteur, sur lequel vous courrez de chez vous. Cet appareil est un vrai coach : vous pouvez **régler l’inclinaison, la vitesse du tapis**, et certaines gammes vous permettent également de **suivre des programmes**, dans un but particulier, tel que **brûler des graisses**, ou encore optimiser vos sprints !
 
-Souvent les tapis des courses sont encombrants et il est compliqué de leur trouver une place, surtout si vous habitez un appartement. C’est pourquoi les tapis de course pliables sont devenus si populaires : ils sont plutôt simples à ranger : après la séance, vous n’aurez qu’à le redresser en repliant les barres de support pour qu’il ne prenne que peu de place. Aussi ils sont très abordables, plus que les tapis standards. Ainsi vous pourrez faire des économies sur votre abonnement à la salle de sport !
+Souvent les tapis des courses sont encombrants et il est compliqué de leur **trouver une place**, surtout si vous habitez un appartement. C’est pourquoi les tapis de course pliables sont devenus si populaires : ils sont plutôt simples à ranger et **peu encombrants**. Après la séance, vous n’aurez qu’à le redresser en repliant les barres de support pour qu’il ne prenne que peu de place. Aussi on trouve des modèles **très abordables** (surtout si vous ne cherchez pas un tapis inclinable). Ainsi vous pourrez **faire des économies** sur votre abonnement à la salle de sport !
 
-Concernant l’entretien, c’est très facile : pensez à bien lubrifier le dessous du tapis toutes les 5 séances environ, en le laissant fonctionner sans charge pendant quelques minutes à faible vitesse. Ainsi il s’usera beaucoup moins vite, et sera plus confortable.
+Concernant l’entretien, c’est très facile : **pensez à bien lubrifier le dessous du tapis** toutes les 5 séances environ, en le laissant fonctionner sans charge pendant quelques minutes à faible vitesse. Ainsi il s’usera beaucoup moins vite, et sera plus confortable.
 
 ---
 ## [Gearstone CS-WP7](/catalogue/1/) — 399,00€

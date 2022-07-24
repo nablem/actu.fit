@@ -20,7 +20,7 @@ Voici un comparatif dans lequel nous présentons 3 anneaux. Ce sont, à notre se
 On vous laisse pour chacun, un lien vers la **fiche produit** si vous souhaitez en savoir plus, et éventuellement l'acheter !
 
 ---
-## [Anneau MANTRA SPORTS](/catalogue/19/) — 29,97€
+## [Anneau MANTRA SPORTS](/catalogue/28/) — 29,97€
 
 Un anneau très résistant de 14 pouces. Un **sac, ainsi qu’un poster** suggérant des exercices, sont fournis avec.
 
@@ -31,7 +31,7 @@ Un anneau très résistant de 14 pouces. Un **sac, ainsi qu’un poster** suggé
 | -------   | -------------- | ------|
 | 14 pouces | fibre de verre | 630 g |
 ---
-## [Anneau COLFULINE](/catalogue/19/) — 19,99€
+## [Anneau COLFULINE](/catalogue/29/) — 19,99€
 
 Un anneau tout aussi robuste, à **grand diamètre** (15 pouces).
 
@@ -42,7 +42,7 @@ Un anneau tout aussi robuste, à **grand diamètre** (15 pouces).
 | -------   | -------------- | ------|
 | 15 pouces | fibre de verre | 650 g |
 ---
-## [Anneau CampTeck](/catalogue/19/) — 12,59€
+## [Anneau CampTeck](/catalogue/30/) — 12,59€
 
 Un anneau **très léger**, qui s’adapte à tout exercice. C’est un excellent **rapport qualité-prix**.
 

@@ -1,7 +1,7 @@
 ---
-title: "Le Pilates : la méthode aux multiples bienfaits !"
+title: "Les bienfaits surprenants du Pilates !"
 date: "2022-07-22"
-summary: "On vous liste ici les principaux bienfaits du Pilates, pour vous motiver à continuer vos efforts !"
+summary: "On vous liste ici les principaux bienfaits du Pilates, pour vous garder motivés !"
 tags: ["pilates", "conseils"]
 images: ["conseils/bienfaits-pilates/pexels-andrea-piacquadio-868483.jpg"]
 inspiredBy: "https://www.healthline.com/nutrition/pilates-benefits"
