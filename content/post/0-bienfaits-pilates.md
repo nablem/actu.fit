@@ -1,5 +1,5 @@
 ---
-title: "Les bienfaits surprenants du Pilates !"
+title: "Les bienfaits surprenants du Pilates"
 date: "2022-07-22"
 summary: "On vous liste ici les principaux bienfaits du Pilates, pour vous garder motivés !"
 tags: ["pilates", "conseils"]
