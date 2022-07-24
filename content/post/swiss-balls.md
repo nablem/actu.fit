@@ -8,7 +8,7 @@ offers: 5
 min: 10.00
 max: 48.99
 ---
-La swiss ball, aussi appelée tout simplement **ballon de gym**, ou ballon de fitness, a envahi les
+Le swiss ball, aussi appelée tout simplement **ballon de gym**, ou ballon de fitness, a envahi les
 salles de **fitness**. Et pour cause : c’est un accessoire très **polyvalent**. Il est utilisé pour
 certains exercices de [Pilates](/tags/pilates/), de [Yoga](/post/tapis-yoga/), ou tout simplement
 pour **se détendre** et s’étirer après une séance intense. On le trouve même dans certains **bureaux**,
