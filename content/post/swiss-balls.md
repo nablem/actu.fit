@@ -1,7 +1,7 @@
 ---
 title: "Les meilleurs swiss balls"
 date: "2022-07-24"
-summary: "Le gros ballon de gym, utilisé pour les exercices de Pilates, de Yoga, ou tout simpelement pour s'asseoir au bureau !"
+summary: "Le gros ballon de gym, utilisé pour les exercices de Pilates, de Yoga, ou tout simplement pour s'asseoir au bureau !"
 tags: ["pilates", "comparatifs"]
 images: ["swiss-balls/mr-lee-f4RBYsY2hxA-unsplash.jpg"]
 offers: 5
