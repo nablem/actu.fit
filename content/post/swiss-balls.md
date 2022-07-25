@@ -59,7 +59,7 @@ Un ballon d’**entrée de gamme, à petit prix**. Il y a cependant un compromis
 ---
 ## [Ballon fitness et grossesse Vilypron](/catalogue/35/) — 48,99€
 
-En plus d'être un ballon **haut de gamme** pour le **fitness**, supportant jusqu’à **300 kg**, c'est ballon **adapté pour les femmes enceintes**, ou pour les personnes recherchant une swiss ball **pour s’asseoir**, en guise de siège. Il est équipé d’une **housse en tissu de lin respirant**, qui absorbe bien la transpiration, et procure un **grand confort**. Cette housse est lavable en machine sans aucun souci. Aussi elle est dotée d’une sorte de **poignée, pour s’accrocher**, et ainsi gagner en **contrôle**.
+En plus d'être un ballon **haut de gamme** pour le **fitness**, supportant jusqu’à **300 kg**, c'est un ballon **adapté pour les femmes enceintes**, ou pour les personnes recherchant une swiss ball **pour s’asseoir**, en guise de siège. Il est équipé d’une **housse en tissu de lin respirant**, qui absorbe bien la transpiration, et procure un **grand confort**. Cette housse est lavable en machine sans aucun souci. Aussi elle est dotée d’une sorte de **poignée, pour s’accrocher**, et ainsi gagner en **contrôle**.
 
 {{< figure link="/catalogue/35/" src="/images/swiss-balls/swiss-ball-vilypron.jpg" alt="Image du ballon de gym Vilypron" >}}
 {{< affiliate_link "/catalogue/35/" >}}
