@@ -40,6 +40,8 @@ une séance d'entraînement de zumba !
 De manière générale, vous pouvez faire des entraînements aérobies à haute intensité.
 Ces entraînements sont efficaces, simples, amusants et parfaits pour brûler un
 maximum de calories.
+Le [hula hoop](/post/cerceaux/) et le step sont des alternatives intéressantes, qui se pratiquent
+également en musique !
 
 {{< figure src="/images/conseils/perdre-ventre/pexels-kate-trysh-4090012.jpg" alt="Individus dansant devant des animateurs de Zumba situés sur une scène" >}}
 
