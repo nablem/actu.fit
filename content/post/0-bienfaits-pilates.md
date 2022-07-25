@@ -19,7 +19,7 @@ Le but est de développer des mouvements **réguliers et fonctionnels** sollicit
 La pratique de la méthode n'est pas propice à provoquer des blessures. Elle vise à créer une **force** optimale par un **équilibre** entre les muscles, et le système neuromusculaire.
 Le force acquise au travers de la méthode est en **harmonie** avec la mobilité et la souplesse.
 
-La [littérature scientifique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666467/) est claire et unanime quant aux multiples bénéfiques de la méthode Pilates sur la santé.
+La [littérature scientifique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666467/) est claire et unanime quant aux multiples bienfaits de la méthode Pilates pour la santé.
 
 Au niveau du matériel nécessaire, **un [tapis de yoga](/post/tapis-yoga/) suffit** !
 
