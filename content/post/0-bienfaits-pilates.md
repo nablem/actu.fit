@@ -1,7 +1,7 @@
 ---
 title: "Les bienfaits surprenants du Pilates"
-date: "2022-07-22"
-summary: "On vous liste ici les principaux bienfaits du Pilates, pour vous garder motivés !"
+date: "2022-07-26"
+summary: "On vous liste ici les principaux bienfaits du Pilates : cette méthode n'a pas fini de nous surprendre !"
 tags: ["pilates", "conseils"]
 images: ["conseils/bienfaits-pilates/pexels-andrea-piacquadio-868483.jpg"]
 inspiredBy: "https://www.healthline.com/nutrition/pilates-benefits"
@@ -21,11 +21,34 @@ Le force acquise au travers de la méthode est en **harmonie** avec la mobilité
 
 La [littérature scientifique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666467/) est claire et unanime quant aux multiples bienfaits de la méthode Pilates pour la santé.
 
-Au niveau du matériel nécessaire, **un [tapis de yoga](/post/tapis-yoga/) suffit** !
+Au niveau du matériel nécessaire, **un <<[tapis de yoga](/post/tapis-yoga/)>> suffit** !
 
 Aussi, si vous souhaitez vous mettre en relation avec un coach Pilates professionel, vous pouvez en trouver un près de chez vous en allant visiter [l'annuaire des professionnels de la FPMP](https://www.fpmp.fr/dsdsheet/).
 
 ## Les bienfaits, parfois innatendus, de la méthode Pilates
+
+### Améliore la flexibilité et la mobilité
+
+La flexibilité est l'amplitude de l'elasticité d'un muscle.
+La mobilité est l'amplitude de mouvement d'une articulation.
+
+Les exercices de Pilates consistent en des mouvements contrôlés, avec des transitions
+lentes et précises. La plupart combinent en un seul mouvement l'étirement et le renforcement d'un ou plusieurs muscles.
+C'est ce qui rend la méthode si efficace dans le gain en flexibilité et en mobilité,
+comme le montre la [recherche](https://pubmed.ncbi.nlm.nih.gov/27814860/) à ce sujet.
+
+### Améliore l'équilibre
+
+L'équilibre est important à tout âge, et cruciale pour effectuer en sérénité les gestes et
+activités de la vie quotidienne, comme la marche.
+Le Pilates [améliore l'équilibre](https://pubmed.ncbi.nlm.nih.gov/31987246/), par son travail sur la ceinture abdominale, mais aussi
+par ses exercices d'alignement, impliquant l'ensemble du corps.
+
+### Renforce les os
+
+Le Pilates provoque une libération, au niveau des articulations, du liquide synovial.
+Cela aide à lubrifier, et garder un bon développement des os dans le temps.
+Il y a un [impact positif](https://pubmed.ncbi.nlm.nih.gov/26406222/) direct sur la densité des os.
 
 ### Améliore la posture
 
@@ -43,3 +66,40 @@ Une bonne force centrale est la clé pour diminuer les douleurs osseuses et musc
 
 Le Pilates cible les muscles abdominaux les plus profonds, ainsi que le plancher pelvien.
 Ces muscles travaillent en tandem pour soulever et soutenir les organes, tout en protégeant le dos.
+
+### Protège des blessures
+
+Un groupe de muscles trop lâche ou trop tendu est sujet aux blessures.
+Le Pilates assure un équilibre entre les muscles, de sorte à ce que l'ensemble ne soit ni
+trop lâche ni trop tendu.
+La méthode a pour objective de développer une force dite dynamique, ce qui assure un
+meilleur soutien des articulations lors des mouvements. Des [études](https://www.scielo.br/j/fm/a/RgYWddnwxqwMPBxqPDx7HRw/?lang=en) ont pu démontrer
+une efficacité signifiante du Pilates dans la réduction des blessures issues de l'activité sportive.
+
+### Diminue l'épuisement
+
+En se concentrant sur la respiration, la gestion de l'oxygène et la circulation du sang est améliorée.
+Cela stimule les hormones du bien-être (sérotonine, dopamine, endorphine, ocytocine...), sans exercer de stress sur le corps : voilà comment la méthode
+augmente votre énergie !
+
+Aussi, des études suggèrent que la méthode a un
+effet bénéfique sur le sentiment de [motivation](https://www.sciencedirect.com/science/article/pii/S1877042815022697?ref=pdf_download&fr=RR-2&rr=730b71e82dba3a0b),
+et même les [facultés cognitives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7277224/), telles que la concentration !
+
+### Réduit le stress
+
+Pendant les sessions de Pilates, le système nerveux parasympathique est stimulé,
+ce qui met un état de calme. En effet, la conscience du corps étant un élément important lors de tout exercice.
+Avec le temps, le niveau de cortisol, et le niveau de stress diminueront durablement.
+
+Avec un système nerveux calmé, les douleurs chroniques sont diminuées. Notamment, la [recherche](https://www.iosrjournals.org/iosr-jdms/papers/Vol15-Issue%204/Version-5/Y150405156163.pdf) a prouvé
+un lien significatif entre la pratique de la méthode et le soulagement des dysménorrhées.
+
+### Booste le système immunitaire
+
+Grâce à la diminution du stress qu'elle provoque, la méthode
+Pilates peut renforcer le système immunitaire, surtout chez les personnes âgées,
+comme le montre cette [étude](https://www.researchgate.net/publication/340667747_The_Effect_of_Pilates_Training_on_Immune_Markers_in_Elderly_Men)
+de l'Université de Mohaghegh Ardabili.
+
+---
