@@ -50,3 +50,7 @@ RedirectMatch 301 /catalogue/42/ https://amzn.to/3PzW72q
 RedirectMatch 301 /catalogue/43/ https://amzn.to/3ozd1SI
 RedirectMatch 301 /catalogue/44/ https://amzn.to/3ovuMCu
 RedirectMatch 301 /catalogue/45/ https://amzn.to/3S2lpro
+RedirectMatch 301 /catalogue/46/ https://amzn.to/3JpihSV
+RedirectMatch 301 /catalogue/47/ https://amzn.to/3PAQEbA
+RedirectMatch 301 /catalogue/48/ https://amzn.to/3ovJM3v
+RedirectMatch 301 /catalogue/49/ https://amzn.to/3zaF2VK
