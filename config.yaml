@@ -10,6 +10,7 @@ footnoteReturnLinkContents: "^"
 params:
   description: 'Bien choisir son équipement de sport.'
   homepageImage: "/images/logo.png"
+  customCSS: ["custom.css"]
   prismJS:
     enable: false
   commento:
