@@ -13,6 +13,9 @@ certaines maladies, et notre **durée de vie**.
 Voilà une activité gratuite, **accessible à tous**, qu'on peut facilement intégrer
 dans sa **vie de tous les jours**.
 Veillez tout de même à vous munir de **chaussures adéquates**.
+Dans le cadre d'une pratique plus intensive de la marche, telle que la **marche nordique**,
+ou la **randonnée**, vous pouvez envisager d'utiliser un [bâton](/post/batons-marche/) pour
+vous assister !
 
 ## Brûle les graisses
 Que votre objectif soit de maintenir votre poids, ou
