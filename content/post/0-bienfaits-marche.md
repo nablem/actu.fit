@@ -2,7 +2,7 @@
 title: "Les bienfaits stupéfiants de la marche"
 date: "2022-07-30"
 summary: "Marcher est une activité si simple qu'on a tendance à la négliger. Pourtant, ses bienfaits sont si nombreux et impactants !"
-tags: ["cardio", "conseils"]
+tags: ["randonnée", "cardio", "conseils"]
 images: ["conseils/bienfaits-marche/pexels-yogendra-singh-1466852.jpg"]
 inspiredBy: "https://www.healthline.com/health/benefits-of-walking"
 ---
