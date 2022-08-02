@@ -2,7 +2,7 @@
 title: "Les meilleurs vélos elliptiques"
 date: "2022-07-25"
 summary: "Une excellente alternative au tapis de course et au vélo d'appartement, pour faire une séance de cardio efficace, avec une moindre sollicitation des articulations !"
-tags: ["cardio", "fitness", "comparatifs"]
+tags: ["cardio", "machines fitness", "fitness", "comparatifs"]
 images: ["velos-elliptiques/pexels-shotpot-4046656.jpg"]
 offers: 5
 min: 259.99
