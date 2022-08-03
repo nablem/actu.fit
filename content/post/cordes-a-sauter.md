@@ -2,7 +2,7 @@
 title: "Les meilleurs cordes à sauter"
 date: "2022-07-27"
 summary: "Une activité intensive qui tonifiera le tronc et le bas du corps, tout en brûlant les calories en un temps record !"
-tags: ["cardio", "fitness", "comparatifs"]
+tags: ["HIIT", "cardio", "fitness", "comparatifs"]
 images: ["cordes-a-sauter/pexels-ketut-subiyanto-4804027.jpg"]
 offers: 4
 min: 8.99

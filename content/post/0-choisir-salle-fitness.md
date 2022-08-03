@@ -43,7 +43,7 @@ adhérents** : elle doit vous demander de fournir un **certificat médical**, et
 les documents nécessaires pour que vous soyez pleinement assurés, dès l’instant où
 vous commencerez à vous y exercer.
 
-La **qualité des équipements** est bien sûr à vérifier. Les machines proposées doivent
+La **qualité des équipements** est bien sûr à vérifier. Les [machines](/tags/machines-fitness/) proposées doivent
 être de **haut de gamme**, et comporter de bons dispositifs d’assistance d’urgence (arrêt
 d’urgence sur un tapis de course, levier sur une presse à cuisses, etc), en cas de
 difficulté à compléter un mouvement.
