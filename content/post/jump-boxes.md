@@ -2,7 +2,7 @@
 title: "Acheter la jump box idéale"
 date: "2022-08-03"
 summary: "Gagnez en explosivité en pratiquant le box jump. Pour cela, l'achat d'un box de pliométrie suffit !"
-tags: ["crossfit", "HIIT", "fitness", "comparatifs"]
+tags: ["HIIT", "fitness", "comparatifs"]
 images: ["jump-boxes/chu-gummies-_EGNbWLR_Do-unsplash.jpg"]
 offers: 3
 min: 79.00
